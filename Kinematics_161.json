@@ -1,0 +1,7337 @@
+[
+  {
+    "iIndex":1,
+    "sQuestion": "An athlete swims the length of a 50 m pool in 20 s and makes the return trip to the starting position in 22 s. Determine her speed in the first half of the swim.",
+    "lEquations": [
+      "50.0-hv*20.0=0.0"
+    ],
+    "lSolutions": [
+      2.5
+    ],
+    "span_hv": [
+      "Determine her speed"
+    ],
+    "span_ha": [
+    ],
+    "span_hp": [
+      "50 m"    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+    ],
+    "span_t": [
+      "20 s",
+      "22 s" 
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 2,
+    "sQuestion": "An athlete swims the length of a 50 m pool in 20 s and makes the return trip to the starting position in 22 s. Determine her speed in the second half of the swim.",
+    "lEquations": [
+      "50.0-hv*22.0=0.0"
+      ],
+    "lSolutions": [
+      2.27
+    ],
+    "span_hv": [
+      "Determine her speed"
+    ],
+    "span_ha": [
+    ],
+    "span_hp": [
+      "50 m"
+    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+    ],
+    "span_t": [
+      "20 s",
+      "22 s"
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 3,
+    "sQuestion": "A dart is thrown horizontally with an initial speed of 10 m/s toward the bulls eye on a dart board. It hits at point on the rim vertically below the bulls eye, 0.2 s later. How far away from the dart board is the dart released?",
+    "lEquations": [
+      "hp-10.0*0.2=0.0"
+    ],
+    "lSolutions": [
+      2.0
+    ],
+    "span_hv": [
+      "10 m/s"
+    ],
+    "span_ha": [
+    ],
+    "span_hp": [
+      "How far away"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+    ],
+    "span_t": [
+      "0.2 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 4,
+    "sQuestion": "A dart is thrown horizontally with an initial speed of 10 m/s toward point the bulls eye on a dart board. It hits at point on the rim vertically below the bulls eye, 0.2 s later. How far below the bulls eye does the dart hit?",
+    "lEquations": [
+      "vp-0.0*0.2-0.5*(-9.8)*0.2*0.2=0.0"
+    ],
+    "lSolutions": [
+      -0.2
+    ],
+    "span_hv": [
+      "10 m/s"
+    ],
+    "span_ha": [
+    ],
+    "span_hp": [
+    ],
+    "span_vv": [
+      "thrown horizontally"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+       "How far below"
+    ],
+    "span_t": [
+      "0.2 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 5,
+    "sQuestion": "A car moving along a straight highway with a speed of 35 m/s is brought to a stop within a distance of 200 m. What is the retardation of the car? ",
+    "lEquations": [
+      "0.0*0.0-35.0*35.0-2.0*ha*200.0=0.0"
+     ],
+    "lSolutions": [
+      -3.0625
+    ],
+    "span_hv": [
+      "35 m/s",
+      "brought to a stop"
+    ],
+    "span_ha": [
+      "What is the retardation"
+    ],
+    "span_hp": [
+      "200 m"
+    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+       
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+    ]
+  },
+  {
+    "iIndex": 6,
+    "sQuestion": "A man walks on a straight road from his home to a market 2.5 km away with a speed of 5 km/hr. What is the time taken by man to reach the market? ",
+    "lEquations": [
+      "2.5-5.0*t=0.0"
+    ],
+    "lSolutions": [
+      0.5
+    ],
+    "span_hv": [
+      "5 km/hr"
+    ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "2.5 km"
+    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+       
+    ],
+    "span_t": [
+      "What is the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 7,
+    "sQuestion": "A train is moving on a track with a uniform speed of 20 m/s. It starts accelerating at 1 m/s2. What is the distance covered by the train in 50 s?",
+    "lEquations": [
+      "hp-20.0*50.0-0.5*1.0*50.0*50.0=0.0"
+    ],
+    "lSolutions": [
+      2250
+    ],
+    "span_hv": [
+      "20 m/s"
+    ],
+    "span_ha": [
+      "1 m/s2"
+    ],
+    "span_hp": [
+      "What is the distance covered"
+    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+       
+    ],
+    "span_t": [
+      "50 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t-0.5*ha*t*t=0.0"
+      
+    ]
+  },
+  {
+    "iIndex": 8,
+    "sQuestion": "A drunkard walking on a narrow lane covers 1 m in 60 s. What is the speed with which he is walking? ",
+    "lEquations": [
+      "1.0-hv*60.0=0.0"
+    ],
+    "lSolutions": [
+      0.01667
+    ],
+    "span_hv": [
+       "What is the speed"
+    ],
+    "span_ha": [
+     
+    ],
+    "span_hp": [
+      "1 m"
+    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+       
+    ],
+    "span_t": [
+      "60 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 9,
+    "sQuestion": "A man cycling with a speed of 5.55556 m/s comes to a stop within a distance of 20 m. What is the decceleration of the man?",
+    "lEquations": [
+      "0.0*0.0-5.55556*5.55556-2.0*ha*20.0=0.0"
+     ],
+    "lSolutions": [
+      0.7716
+    ],
+    "span_hv": [
+      "5.55556 m/s",
+      "comes to a stop"
+    ],
+    "span_ha": [
+      "What is the decceleration"
+    ],
+    "span_hp": [
+      "20 m"
+    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+       
+    ],
+    "span_t": [
+     
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+      
+    ]
+  },
+  {
+    "iIndex": 10,
+    "sQuestion": "An ambulance is headed towards an accident site 10 km away with a speed of 100 km/hr. Determine the time taken by the ambulance to reach the site.",
+    "lEquations": [
+      "10.0-100.0*t=0.0"
+     ],
+    "lSolutions": [
+      0.1
+    ],
+    "span_hv": [
+      "100 km/hr"
+      
+    ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "10 km"
+    ],
+    "span_vv": [
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+       
+    ],
+    "span_t": [
+      "Determine the time taken"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 11,
+    "sQuestion": "A hiker stands on the edge of a cliff 490 m above the ground and throws a stone horizontally with an initial speeed of 15 m/s. How far away from the cliff does the stone hit the ground. ",
+    "lEquations": [
+      "0.0-490.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-15.0*t=0.0"
+    ],
+    "lSolutions": [
+      9.899
+    ],
+    "span_hv": [
+      "15 m/s"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "How far away"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "490 m",
+      "ground"
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 12,
+    "sQuestion": "A hiker stands on the edge of a cliff 490 m above the ground and throws a stone horizontally with an initial speeed of 15 m/s. Find the time taken to reach the ground. ",
+    "lEquations": [
+      "0.0-490.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+      9.899
+    ],
+    "span_hv": [
+      "15 m/s"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "490 m",
+      "ground"
+    ],
+    "span_t": [
+      "Find the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+
+
+  {
+    "iIndex": 13,
+    "sQuestion": "A cannon is fired from the edge of a small cliff. The height of the cliff is 80 m. The cannon ball is fired with a perfectly horizontal velocity of 81 m/s. How far will the cannon ball fly horizontally before it strikes the ground?",
+    "lEquations": [
+      "hp-81.0*t=0.0",
+      "0.0-80.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "81 m/s"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+      "horizontal"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "80 m",
+      "strikes the ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "hp-hv*t=0.0",
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 14,
+    "sQuestion": "A cannon is fired from the edge of a small cliff. The height of the cliff is 80 m. The cannon ball is fired with a perfectly horizontal velocity of 81 m/s. How long will it take the cannon ball to strike the ground?",
+    "lEquations": [
+      "0.0-80.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "81 m/s"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "horizontal"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "80 m",
+      "strikes the ground"
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 15,
+    "sQuestion": "On a certain stretch of track trains run at 26.8224 m/s. How far back of a stopped train should a warning torpedo be placed to signal an oncoming train. Assume that the brakes are applied at once and retard the train at a uniform rate of 1.2192 m/s2.",
+    "lEquations": [
+      "0.0*0.0-26.8224*26.8224-2.0*(-1.2192)*hp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "26.8224 m/s",
+      "brakes are applied"
+
+    ],
+    "span_ha": [
+      "retard the train at a uniform rate of 1.2192 m/s2"
+    ],
+    "span_hp": [
+      "How far back"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+    ]
+  },
+  {
+    "iIndex": 16,
+    "sQuestion": "A particle starting with an initial velocity of 60 fps has a motion with a constant deceleration of 10 fps2. Determine the velocity at the end of 9 s. ",
+    "lEquations": [
+      "hv-60.0-(-10.0)*9.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "60 fps",
+      "Determine the velocity"
+    ],
+    "span_ha": [
+      "constant deceleration of 10 fps2"
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "9 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 17,
+    "sQuestion": "A body moving in a vertical direction passes a point at height of 0.545 m with a velocity of 4.36 m/s. With what initial velocity was it thrown up?",
+    "lEquations": [
+      "4.36*4.36-vv*vv-2.0*(-9.8)*0.545=0.0"
+    ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "vertical direction"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "4.36 m/s",
+      "what initial velocity"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "0.545 m"
+    ],
+    "span_t": [
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 18,
+    "sQuestion": "The greatest height attained by a particle projected vertically upwards is 68.58 m. Find how soon after projection the particle will be at a height of 53.6448 m.",
+    "lEquations": [
+      "0.0*0.0-vv*vv-2.0*(-9.8)*68.58=0.0",
+      "53.6448-vv*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "vertically upwards"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "The greatest height"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "68.58 m",
+      "53.6448 m"
+    ],
+    "span_t": [
+      "Find how soon"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 19,
+    "sQuestion": "A body is projected from the bottom of a mine whose depth is 26.8224 m with a velocity of 7.3152 m/s. Find the time in which the body will return to the surface of the earth again.",
+    "lEquations": [
+      "0.0-26.8224-7.3152*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "7.3152 m/s"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "depth is 26.8224 m",
+      "surface of the earth"
+    ],
+    "span_t": [
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 20,
+    "sQuestion": "A stone is thrown vertically into a mine shaft with a velocity of 29.2608 m/s and reaches bottom in 3 s. Find the depth of the shaft.",
+    "lEquations": [
+      "vp-0.0-29.2608*3.0-0.5*(-9.8)*3.0*3.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "thrown vertically"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "29.2608 m/s"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "reaches bottom",
+      "Find the depth"
+
+    ],
+    "span_t": [
+      "3 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+   {
+    "iIndex": 21,
+    "sQuestion": "Find the initial vertical velocity of a body if the body describes 304.8 m downwards in 10 s.",
+    "lEquations": [
+      "(-304.8)-vv*10.0-0.5*(-9.8)*10.0*10.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "Find the initial vertical velocity"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "304.8 m downwards"
+      
+    ],
+    "span_t": [
+      "10 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 22,
+    "sQuestion": "Find the time taken by a body fallen from rest to fall 3.048 m.",
+    "lEquations": [
+      "(-3.048)-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "from rest"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "fall 3.048 m"
+
+    ],
+    "span_t": [
+      "Find the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 23,
+    "sQuestion": "Find the distance fallen from rest by a body in 10 s.",
+    "lEquations": [
+      "vp-0.0*10.0-0.5*(-9.8)*10.0*10.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "from rest"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "Find the distance"
+
+    ],
+    "span_t": [
+      "10 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 24,
+    "sQuestion": "A stone is thrown vertically upwards with a velocity of 18.288 m/s. At what height will it be when its velocity is 6.096 m/s.",
+    "lEquations": [
+      "6.096*6.096-18.288*18.288-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "18.288 m/s",
+      "6.096 m/s"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "At what height"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 25,
+    "sQuestion": "A particle is projected vertically upwards with a velocity of 12.192 m/s. Find when it will be 7.62 m above the point of projection.",
+    "lEquations": [
+      "7.62-12.192*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "12.192 m/s"
+
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "7.62 m"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 26,
+    "sQuestion": "A body is projected from the earth vertically with a velocity of 12.192 m/s. Find how high it will go before coming to rest?",
+    "lEquations": [
+      "0.0*0.0-12.192*12.192-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "12.192 m/s",
+      "how high",
+      "rest"
+
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "from the earth",
+      "Find how high"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 27,
+    "sQuestion": "A stone is allowed to fall from the edge of a tower that is 100 m high. What will be its velocity after 2 s.",
+    "lEquations": [
+      "vv-0.0-(-9.8)*2.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+     
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "allowed to fall",
+      "What will be its velocity"
+
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "100 m"
+    ],
+    "span_t": [
+      "2 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+      "vv-vv-va*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 28,
+    "sQuestion": "A particle falling under gravity falls 48 m in a certain second. Find the time required to cover the next 50 m.",
+    "lEquations": [
+      "48.0-vvi*1.0-0.5*(-9.8)*1.0*1.0=0.0",
+      "vvf-vvi-(-9.8)*1.0=0.0",
+      "50.0-vvf*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+      "under gravity"
+    ],
+    "span_vp": [
+      "48 m",
+      "50 m"
+    ],
+    "span_t": [
+      "in a certain second",
+      "Find the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0",
+      "vv-vv-va*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 29,
+    "sQuestion": "A particle falls from rest and in 1 s of motion it travels 98.1 m. Find the height from which it fell.",
+    "lEquations": [
+      "98.1-vv*1.0-0.5*(-9.8)*1.0*1.0=0.0",
+      "vv*vv-0.0*0.0-2.0*(-9.8)*98.1+2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "from rest"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "98.1 m",
+      "Find the height"
+    ],
+    "span_t": [
+      "1 s"
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0",
+      "vv*vv-vv*vv-2.0*va*vp+2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 30,
+    "sQuestion": "Find the height to which a particle will rise if it be projected vertically upwards from the surface of moon with a velocity of 12.192 m/s. The acceleration due to gravity on the moon is -1.625 m/s2.",
+    "lEquations": [
+
+      "0.0*0.0-12.192*12.192-2.0*(-1.625)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "12.192 m/s",
+      "height to which a particle will rise"
+    ],
+    "span_va": [
+      "-1.625 m/s2"
+    ],
+    "span_vp": [
+      "Find the height"
+    ],
+    "span_t": [
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp+2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 31,
+    "sQuestion": "A stone is thrown vertically upwards with a velocity of 29.2608 m/s. Find how high it will rise.",
+    "lEquations": [
+
+      "0.0*0.0-29.2608*29.2608-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "29.2608 m/s",
+      "Find how high"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "Find how high"
+    ],
+    "span_t": [
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 32,
+    "sQuestion": "Priya throws a stone from the top of a building 30 m high with an initial velocity of 25.5 m/s directed vertically upward. What is its position after 2 s?",
+    "lEquations": [
+
+      "vp-30.0-25.5*2.0-0.5*(-9.8)*2.0*2.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "25.5 m/s"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "30 m",
+      "What is its position"
+    ],
+    "span_t": [
+      "2 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 33,
+    "sQuestion": "Latha throws an apple vertically upwards from the ground to Preetha standing near the window 30 m above. The apple was caught by Preetha 2 s later. Determine initial velocity of the apple.",
+    "lEquations": [
+
+      "30.0-0.0-vv*2.0-0.5*(-9.8)*2.0*2.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "Determine initial velocity"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "30 m",
+      "from the ground"
+
+    ],
+    "span_t": [
+      "2 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 34,
+    "sQuestion": "A body is projected vertically upwards with a velocity of 65.40 m/s. How high does it rise?",
+    "lEquations": [
+
+      "0.0*0.0-65.40*65.40-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "65.40 m/s",
+      "How high does it rise"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "How high"
+
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 35,
+    "sQuestion": "A ball is thrown vertically upward with a speed of 25 m/s. How long does it take to reach its highest point? ",
+    "lEquations": [
+
+      "0.0-25.0-(-9.8)*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "25 m/s",
+      "highest point"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv-vv-va*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 36,
+    "sQuestion": "A ball is thrown vertically upward with a speed of 25 m/s. What is the maximum height reached by it?",
+    "lEquations": [
+
+      "0.0*0.0-25.0*25.0-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "25 m/s",
+      "maximum height"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "What is the maximum height"
+
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 37,
+    "sQuestion": "How high can a human throw a ball if he can throw it with initial velocity 40.2336 m/s.",
+    "lEquations": [
+
+      "0.0*0.0-40.2336*40.2336-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "40.2336 m/s",
+      "How high"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "How high"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 38,
+    "sQuestion": "You are driving along the street at the speed limit 15.6464 m/s and 50 meters before reaching a traffic light you notice it becoming yellow. You accelerate to make the traffic light within the 3 seconds it takes for it to turn red. What is your speed as you cross the intersection?",
+    "lEquations": [
+
+      "50.0-15.6464*3.0-0.5*ha*3.0*3.0=0.0",
+      "hv-15.6464-ha*3.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "15.6464 m/s",
+      "What is your speed"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "50 meters"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "3 seconds"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t-0.5*ha*t*t=0.0",
+      "hv-hv-ha*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 39,
+    "sQuestion": "You are driving along the street at the speed limit 15.6464 m/s and 50 meters before reaching a traffic light you notice it becoming yellow. You accelerate to make the traffic light within the 3 seconds it takes for it to turn red. What is the acceleration required to cross the intersection?",
+    "lEquations": [
+
+      "50.0-15.6464*3.0-0.5*ha*3.0*3.0=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "15.6464 m/s"
+
+    ],
+    "span_ha": [
+      "What is the acceleration"
+    ],
+    "span_hp": [
+      "50 meters"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "3 seconds"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t-0.5*ha*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 40,
+    "sQuestion": "Find the time it takes for a ball to fall from a height 10 m.",
+    "lEquations": [
+
+      "(-10.0)-0.0*t-0.5*(-9.8)*t*t=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "fall"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "10 m"
+    ],
+    "span_t": [
+      "Find the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 41,
+    "sQuestion": "A body moving in a vertical direction passes a point at height of 0.545 m with a velocity of 4.36 m/s. With what initial velocity was it thrown up?",
+    "lEquations": [
+
+      "4.36*4.36-vv*vv-2.0*(-9.8)*0.545=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertical direction"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "4.36 m/s",
+      "what initial velocity"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "0.545 m"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 42,
+    "sQuestion": "Rex Things throws his mother's crystal vase vertically upwards with an initial velocity of 26.2 m/s. Determine the height to which the vase will rise above its initial height.",
+    "lEquations": [
+
+      "0.0*0.0-26.2*26.2-2.0*(-9.8)*vp=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "26.2 m/s",
+      "height to which the vase will rise"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "Determine the height"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 43,
+    "sQuestion": "Luke Autbeloe drops a pile of roof shingles from the top of a roof located 8.52 meters above the ground. Determine the time required for the shingles to reach the ground.",
+    "lEquations": [
+
+      "0.0-8.52-0.0*t-0.5*(-9.8)*t*t=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "drops a pile"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "8.52 meters",
+      "ground"
+    ],
+    "span_t": [
+      "Determine the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 44,
+    "sQuestion": "A ball is thrown upward from the top of a 31.0 m tower on an unknown planet whose gravitational acceleration is unknown with an initial speed of 12.0 m/s and hits the ground with a speed of 52.0 m/s. How long was the ball in flight?",
+    "lEquations": [
+
+      "52.0*52.0-12.0*12.0-2.0*va*31.0=0.0",
+      "52.0-12.0-va*t=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "thrown upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "12.0 m/s",
+      "52.0 m/s"
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "31.0 m",
+      "ground"
+      
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0",
+      "vv-vv-va*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 45,
+    "sQuestion": "A ball is thrown vertically upward at 20 m/s ignoring air resistance and taking g as 9.8 m/s2. Calculate time taken to return to starting point.",
+    "lEquations": [
+
+      "0.0-20.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "20 m/s"
+    ],
+    "span_va": [
+      "9.8 m/s2"
+    ],
+    "span_vp": [
+      "return to starting point"
+
+    ],
+    "span_t": [
+      "Calculate time taken"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 47,
+    "sQuestion": "A ball is thrown vertically upward at 20 m/s ignoring air resistance and taking g as 9.8 m/s2. Calculate time taken to reach maximum height.",
+    "lEquations": [
+
+      "0.0-20.0-(-9.8)*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "20 m/s",
+      "maximum height"
+    ],
+    "span_va": [
+      "9.8 m/s2"
+    ],
+    "span_vp": [
+    ],
+    "span_t": [
+      "Calculate time taken"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv-vv-va*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 48,
+    "sQuestion": "A ball is thrown vertically upward at 20 m/s ignoring air resistance and taking g as 9.8 m/s2. Calculate maximum height reached.",
+    "lEquations": [
+
+      "0.0*0.0-20.0*20.0-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "20 m/s",
+      "maximum height"
+    ],
+    "span_va": [
+      "9.8 m/s2"
+    ],
+    "span_vp": [
+      "Calculate maximum height"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 49,
+    "sQuestion": "A rock is shot up vertically upward from the edge of the top of the building. The rock reaches its maximum height 2 s after being shot. Then, after barely missing the edge of the building as it falls downward, the rock strikes the ground 8 s after it was launched. Find upward velocity the rock was shot at.",
+    "lEquations": [
+
+      "0.0-vv-(-9.8)*2.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "maximum height",
+      "Find upward velocity"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground"
+    ],
+    "span_t": [
+      "2 s",
+      "8 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv-vv-va*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 50,
+    "sQuestion": "A rock is shot up vertically upward from the edge of the top of the building. The rock reaches its maximum height 2 s after being shot. Then, after barely missing the edge of the building as it falls downward, the rock strikes the ground 8 s after it was launched. What is the maximum height reached?",
+    "lEquations": [
+
+      "0.0-vv-(-9.8)*2.0=0.0",
+      "vp-vv*2.0-0.5*(-9.8)*2.0*2.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "maximum height"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground",
+      "What is the maximum height"
+    ],
+    "span_t": [
+      "2 s",
+      "8 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv-vv-va*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 51,
+    "sQuestion": "A rock is shot up vertically upward from the edge of the top of the building. The rock reaches its maximum height 2 s after being shot. Then, after barely missing the edge of the building as it falls downward, the rock strikes the ground 8 s after it was launched. How tall is the building?",
+    "lEquations": [
+
+      "0.0-vv-(-9.8)*2.0=0.0",
+      "0.0-vp-vv*8.0-0.5*(-9.8)*8.0*8.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "maximum height"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground",
+      "How tall"
+    ],
+    "span_t": [
+      "2 s",
+      "8 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv-vv-va*t=0.0",
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 52,
+    "sQuestion": "A stone falls freely from rest for 10 s. What is the stones displacement during this time.",
+    "lEquations": [
+
+
+      "vp-0.0*10.0-0.5*(-9.8)*10.0*10.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "from rest"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "What is the stones displacement"
+    ],
+    "span_t": [
+      "10 s"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 53,
+    "sQuestion": "A coin is dropped from a 400 m high tower. How long does it take to hit the ground?",
+    "lEquations": [
+
+      "0.0-400.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "dropped"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "400 m",
+      "ground"
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 54,
+    "sQuestion": "A coin is dropped from a 400 m high tower. What is the coin's velocity when it hits the ground?",
+    "lEquations": [
+      "vv*vv-0.0*0.0-2.0*(-9.8)*0.0+2.0*(-9.8)*400.0=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "dropped",
+      "What is the coin's velocity"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "400 m",
+      "ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp+2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 55,
+    "sQuestion": "On the moon an object is dropped from a height of 2 m. The acceleration of gravity on the moon is 1.67 m/s2. Determine the time it takes for the object to fall to the surface of the moon.",
+    "lEquations": [
+      "0.0-2.0-0.0*t-0.5*(-1.67)*t*t=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "dropped"
+    ],
+    "span_va": [
+      "1.67 m/s2"
+    ],
+    "span_vp": [
+      "2 m",
+      "surface"
+    ],
+    "span_t": [
+      "Determine the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 56,
+    "sQuestion": "A tennis ball is thrown vertically upward with an initial velocity of 8 m/s. How long will the ball take to return to its starting point?",
+    "lEquations": [
+      "0.0-8.0*t-0.5*(-9.8)*t*t=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "8 m/s"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "return to its starting point"
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 57,
+    "sQuestion": "A tennis ball is thrown vertically upward with an initial velocity of 8 m/s. What will the ball's speed be when it returns to its starting point?",
+    "lEquations": [
+      "vv*vv-8.0*8.0-2.0*(-9.8)*0.0=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "8 m/s",
+      "What will the ball's speed"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "return to its starting point"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 58,
+    "sQuestion": "A flowerpot falls from a windowsill 25 m above the sidewalk. How much time does a passerby on the sidewalk below have to move out of the way before the flowerpot hits the ground?",
+    "lEquations": [
+      "0.0-25.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "25 m",
+      "ground"
+    ],
+    "span_t": [
+      "How much time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 59,
+    "sQuestion": "A flowerpot falls from a windowsill 25 m above the sidewalk. How fast is the flowerpot moving when it strikes the ground?",
+    "lEquations": [
+      "vv*vv-0.0*0.0-2.0*(-9.8)*0.0+2.0*(-9.8)*25.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "How fast"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "25 m",
+      "ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+
+      "vv*vv-vv*vv-2.0*va*vp+2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 60,
+    "sQuestion": "An object is fired straight up at a speed of 10 m/s. Compute time taken to reach maximum altitude.",
+    "lEquations": [
+      "0.0-10.0-(-9.8)*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "straight up"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "10.0 m/s",
+      "maximum altitude"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "Compute time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+
+      "vv-vv-va*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 61,
+    "sQuestion": "The highest barrier that a projectile can clear is 14 m, when the projectile is launched at an angle of 30 degrees above the horizontal. What is the projectile's launch speed?",
+    "lEquations": [
+       	"0.0*0.0-vv*vv-2.0*(-9.8)*14.0=0.0",
+	"vv-v*sin(30.0)=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "The highest barrier"
+    ],
+    "span_va": [
+    ],
+    "span_vp": [
+      "14 m"
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+       "30 degrees"	
+    ],
+    "span_velocity": [
+	"What is the projectile's launch speed?"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0",
+      "vv-v*sin(a)=0.0"	
+    ]
+  },
+ {
+    "iIndex": 62,
+    "sQuestion": "A missile is launched into the air at an initial velocity of 80 m/s. It is moving with constant velocity until it reaches 1000 m, when the engine fails. How long does it take it to reach 1000 m?",
+    "lEquations": [
+       	"1000.0-80.0*t-0.5*0.0*t*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "80 m/s"
+    ],
+    "span_va": [
+       "constant velocity"
+    ],
+    "span_vp": [
+      "1000 m"
+      
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+       "30 degrees"	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+      
+    ]
+  },
+  {
+    "iIndex": 63,
+    "sQuestion": "A ball is thrown vertically upward with a speed of 25 m/s. What is its velocity when it returns to the level from which it started?",
+    "lEquations": [
+      "vv*vv-25.0*25.0-2.0*(-9.8)*0.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "25 m/s",
+      "What is its velocity"
+    ],
+    "span_va": [
+      
+    ],
+    "span_vp": [
+      "returns to the level"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 64,
+    "sQuestion": "A ball is thrown vertically upward with a speed of 25 m/s. How long does it take to reach its highest point? ",
+    "lEquations": [
+      "0.0-25.0-(-9.8)*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "25 m/s",
+      "highest point"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv-vv-va*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 65,
+    "sQuestion": "A ball is thrown vertically upward with a speed of 25 m/s. How high does it rise?",
+    "lEquations": [
+      "0.0*0.0-25.0*25.0-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upward"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "25 m/s",
+      "How high"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "How high"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+ {
+    "iIndex": 67,
+    "sQuestion": "How high can a human throw a ball if he can throw it with initial velocity 40.2336 m/s.",
+    "lEquations": [
+      "0.0*0.0-40.2336*40.2336-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "40.2336 m/s",
+      "How high"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "How high"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 68,
+    "sQuestion": "Find the time it takes for a ball to fall from a height 10 m.",
+    "lEquations": [
+      "(-10.0)-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "fall"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "10 m"
+
+    ],
+    "span_t": [
+      "Find the time"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 69,
+    "sQuestion": "A football is thrown vertically upwards with an initial velocity of 5 m/s. Calculate the maximum height.",
+    "lEquations": [
+      "0.0*0.0-5.0*5.0-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "5 m/s",
+      "maximum height"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "Calculate the maximum height."
+
+    ],
+    "span_t": [
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 70,
+    "sQuestion": "A ball is horizontally projected with a velocity of 5 m/s from the top of a tower that is 10 m tall. At what distance from the tower does the ball hit the ground?",
+    "lEquations": [
+      "0.0-10.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-5.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "5 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "At what distance"
+    ],
+    "span_vv": [
+      "horizontally"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "10 m",
+      "ground"
+
+    ],
+    "span_t": [
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 71,
+    "sQuestion": "A bike starts from rest and accelerates at 5 m/s2. Where is the bike after 20 s?",
+    "lEquations": [
+      "hp-0.0*20.0-0.5*5.0*20.0*20.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "starts from rest"
+    ],
+    "span_ha": [
+      "5 m/s2"
+    ],
+    "span_hp": [
+      "Where is the bike"
+    ],
+    "span_vv": [
+
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+      "20 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t-0.5*ha*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 72,
+    "sQuestion": "A train is moving with a constant speed of 22.2222 m/s. It begins accelerating at 1.5 m/s2. What is the distance covered by the train in 14 s?",
+    "lEquations": [
+      "hp-22.2222*14.0-0.5*1.5*14.0*14.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "22.2222 m/s"
+    ],
+    "span_ha": [
+      "1.5 m/s2"
+    ],
+    "span_hp": [
+      "What is the distance"
+    ],
+    "span_vv": [
+
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+      "14 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t-0.5*ha*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 73,
+    "sQuestion": "An object is launched at a velocity of 20 m/s in a direction making an angle of 25 degrees upward with the horizontal. What is the maximum height reached by the object?",
+    "lEquations": [
+      "vv-20.0*sin(25.0)=0.0",
+      "0.0*0.0-vv*vv-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "maximum height"
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "What is the maximum height"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+      "25 degrees"
+    ],
+    "span_velocity": [
+      "20 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "vv-v*sin(a)=0.0",
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 74,
+    "sQuestion": "A ball is thrown from the top of 10 m high tower with a horizontal speed of 5 m/s. Calculate its horizontal displacement.",
+    "lEquations": [
+      "(-10.0)-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-5.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "5 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "Calculate its horizontal displacement."
+    ],
+    "span_vv": [
+      "horizontal"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "10 m"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 75,
+    "sQuestion": "A man can swim with a speed of 4 km/hr in still water. How long does he take to cross a river 1 km wide?",
+    "lEquations": [
+
+      "1.0-4.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "4 km/hr"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "1 km"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 76,
+    "sQuestion": "A three wheeler starts from rest, accelerates uniformly with 1 m/s2 on a straight road for 10 s. What is the distance covered by the vehicle?",
+    "lEquations": [
+
+      "hp-0.0*10.0-0.5*1.0*10.0*10.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "starts from rest"
+    ],
+    "span_ha": [
+      "1 m/s2"
+    ],
+    "span_hp": [
+      "What is the distance"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+      "10 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t-0.5*ha*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 77,
+    "sQuestion": "A car is travelling with a speed of 36 km/hr. There is a truck parked at a distance of 1 km from the car. What is the deceleration of the car required to stop the car to avoid an accident?",
+    "lEquations": [
+
+      "0.0*0.0-36.0*36.0-2.0*ha*1.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "36 km/hr",
+      "stop the car"
+    ],
+    "span_ha": [
+      "What is the deceleration"
+    ],
+    "span_hp": [
+      "1 km"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+    ]
+  },
+  {
+    "iIndex": 78,
+    "sQuestion": "A police van is moving on a highway with a speed of 30 km/hr. How much time does it take the van to cover 10 km?",
+    "lEquations": [
+
+      "10.0-30.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "30 km/hr"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "10 km"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+      "How much time"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 79,
+    "sQuestion": "A ball is launched horizontally at 8 m/s from the top of a 10 m cliff. How far from the base of the cliff will the object strike the ground?",
+    "lEquations": [
+      "0.0-10.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-8.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "8 m/s"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "10 m",
+      "ground"
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 80,
+    "sQuestion": "A woman starts walking towards her office which is 2.5 km away with a speed of 5 km/hr. How long does she take to reach office?",
+    "lEquations": [
+
+      "2.5-5.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "5 km/hr"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "2.5 km"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 81,
+    "sQuestion": "A cliff diver running at 3.60 m/s dives out horizontally from the edge of a vertical cliff and reaches the water below 2 s later. How high is the cliff?",
+    "lEquations": [
+       	"0.0-vp-0.0*2.0-0.5*(-9.8)*2.0*2.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "3.60 m/s"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+      "How high"
+      
+    ],
+    "span_t": [
+      "2 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 82,
+    "sQuestion": "If an arrow is fired from a bow with a perfectly horizontal velocity of 60 m/s and the arrow was 2 m above the ground when the it was released, how far will the arrow fly horizontally before it strikes the ground?",
+    "lEquations": [
+       	"0.0-2.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+	"hp-60.0*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "60 m/s"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "how far"
+    ],
+    "span_vv": [
+      "perfectly horizontal"
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+      "2 m",
+      "ground" 
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+	"hp-hv*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 83,
+    "sQuestion": "A rock was thrown horizontally from a 100 m high cliff. It strikes the ground 90 m from the base of the cliff. At what speed was it thrown?",
+    "lEquations": [
+       	"0.0-100.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+	"90.0-hv*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "At what speed"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "90 m"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+      "100 m",
+      "ground" 
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+	"hp-hv*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 84,
+    "sQuestion": "A child is walking at 10 m/s. How long will he take to cover 20 m? ",
+    "lEquations": [
+       	
+	"20.0-10.0*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "10 m/s"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "20 m"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+       
+      
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      
+	"hp-hv*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 85,
+    "sQuestion": "A man starts running from his house towards the park which is located at a distance of 10 m from his house with a speed of 2.77778 m/s. Calculate the time taken by him to reach the park.",
+    "lEquations": [
+       	
+	"10.0-2.77778*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "2.77778 m/s"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "10 m"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+       
+      
+    ],
+    "span_t": [
+      "Calculate the time"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      
+	"hp-hv*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 86,
+    "sQuestion": "A bullet is horizontally launched from a 13 m high tower with a speed of 20 m/s. What is the range of the bullet?",
+    "lEquations": [
+       	"0.0-13.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+	"hp-20.0*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "20 m/s"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "What is the range"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+       "13 m"
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+     	"vp-vp-vv*t-0.5*va*t*t=0.0", 
+	"hp-hv*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 87,
+    "sQuestion": "A soccer player kicks a ball so that the ball leaves the ground at an angle of 35 degrees above the horizontal and lands on the ground 25 meters away. Determine the speed at which the ball left the ground.",
+    "lEquations": [
+	"vv-v*sin(35.0)=0.0",
+       	"0.0-vv*t-0.5*(-9.8)*t*t=0.0",
+	"hv-v*cos(35.0)=0.0",
+	"25.0-hv*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      "25 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+       "ground"
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+      "35 degrees" 	
+    ],
+    "span_velocity": [
+	"Determine the speed"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+     	"vv-v*sin(a)=0.0",
+	"vp-vv*t-0.5*va*t*t=0.0", 
+	"hv-v*cos(a)=0.0",
+	"hp-hv*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 88,
+    "sQuestion": "A ball is thrown vertically upward at 20 m/s ignoring air resistance and taking g as 9.8 m/s2. Calculate maximum height reached.",
+    "lEquations": [
+	"0.0*0.0-20.0*20.0-2.0*(-9.8)*vp=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "vertically upward"
+     ],
+    "span_ha": [
+      
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "20 m/s",
+      "maximum height"
+    ],
+    "span_va": [
+      "9.8 m/s2" 
+    ],
+    "span_vp": [
+       "Calculate maximum height"
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+     	"vv*vv-vv*vv-2.0*va*vp=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 89,
+    "sQuestion": "A car is moving with a velocity of 20 m/s. Its velocity is reduced to 10 m/s after covering a distance of 200 m. Calculate the acceleartion.",
+    "lEquations": [
+	"10.0*10.0-20.0*20.0-2.0*ha*200.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "20 m/s",
+      "10 m/s"	
+     ],
+    "span_ha": [
+      "Calculate the acceleartion"
+    ],
+    "span_hp": [
+      "200 m"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv*hv-hv*hv-2.0*ha*hp=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 90,
+    "sQuestion": "A bus starts from rest and attains a speed of 8.33333 m/s in 40 s. What is the acceleration of the bike?",
+    "lEquations": [
+	"8.33333-0.0-ha*40.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "starts from rest",
+      "8.33333 m/s"	
+     ],
+    "span_ha": [
+      "What is the acceleration"
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "40 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 91,
+    "sQuestion": "A car starts from rest and travels for 5 s with a uniform acceleration of 1.5 m/s2. The driver then applies the brakes causing a uniform acceleration of -2 m/s2. If the brakes are applied for 3 s how fast is the car going at the end of the braking period?",
+    "lEquations": [
+	"hv-0.0-1.5*5.0=0.0",
+	"hv1-hv-(-2.0)*3.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "starts from rest",
+      "how fast"	
+     ],
+    "span_ha": [
+      "1.5 m/s2",
+       "-2 m/s2"	
+	
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "5 s",
+      "3 s" 
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0",
+        "hv-hv-ha*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 92,
+    "sQuestion": "A car is travelling at 20 m/s when the driver notices an overturned truck blocking the road 95 m ahead. The car travels at 20 m/s for 0.5 s before the driver applies the brakes. How far does the car travel in that 0.5 s?",
+    "lEquations": [
+	"hp-20.0*0.5=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "20 m/s",
+      "applies the brakes"	
+     ],
+    "span_ha": [
+     ],
+    "span_hp": [
+      "95 m",
+      "How far"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "0.5 s"
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hp-hv*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 93,
+    "sQuestion": "A bullet is fired through a 0.1 m thick board in such a way that the bullets line of motion is perpendicular to the face of the board. The initial speed of the bullet is 400 m/s and it emerges from the other side of the board with a speed of 300 m/s. Find the acceleration of the bullet as it passes through the board.",
+    "lEquations": [
+	"300.0*300.0-400.0*400.0-2.0*ha*0.1=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "400 m/s",
+      "300 m/s"	
+     ],
+    "span_ha": [
+       "Find the acceleration"
+     ],
+    "span_hp": [
+      "0.1 m"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv*hv-hv*hv-2.0*ha*hp=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 94,
+    "sQuestion": "A racing car reaches a speed of 40 m/s. At this instant it begins a uniform negative acceleration and comes to rest in 5 s. Determine the acceleration of the car.",
+    "lEquations": [
+	
+	"0.0-40.0-ha*5.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "40 m/s",
+      "comes to rest"	
+     ],
+    "span_ha": [
+       "Determine the acceleration"
+     ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "5 s"
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 95,
+    "sQuestion": "A small airplane has a lift off speed of 33.3333 m/s. What minimum constant acceleration does this require if the airplane is to lift off before reaching the end of a 240 m runway?",
+    "lEquations": [
+	
+	"33.3333*33.3333-0.0*0.0-2.0*ha*240.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "33.3333 m/s"	
+     ],
+    "span_ha": [
+       "What minimum constant acceleration"
+     ],
+    "span_hp": [
+      "240 m"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv*hv-hv*hv-2.0*ha*hp=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 96,
+    "sQuestion": "You are driving a car at 13.4112 m/s when you begin to apply the brakes. Your car stops after travelling 46.3296 m. What acceleration did the car have while you were applying the brakes?",
+    "lEquations": [
+	
+	"0.0*0.0-13.4112*13.4112-2.0*ha*46.3296=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "13.4112 m/s",
+      "car stops"	
+     ],
+    "span_ha": [
+       "What acceleration"
+     ],
+    "span_hp": [
+      "46.3296 m"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv*hv-hv*hv-2.0*ha*hp=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 97,
+    "sQuestion": "An airplane starts from rest and accelerates at a constant rate of 3 m/s2 for 30 s before leaving the ground. How fast was it going when it took off?",
+    "lEquations": [
+	"hv-0.0-3.0*30.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "starts from rest",
+      "How fast"	
+     ],
+    "span_ha": [
+       "3 m/s2"
+     ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "30 s"
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 98,
+    "sQuestion": "A car slows from 22 m/s to 3 m/s at a constant rate of 2.1 m/s2. How many seconds are required before the car is travelling 3 m/s?",
+    "lEquations": [
+	"3.0-22.0-(-2.1)*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "22 m/s",
+      "3 m/s"	
+     ],
+    "span_ha": [
+       "2.1 m/s2"
+     ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "How many seconds"
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 99,
+    "sQuestion": "A car traveling at 20 m/s when the driver sees a child standing in the road. He takes 0.8 s to react and then steps on the brakes and slows at 7 m/s2. How far does the car go before it stops?",
+    "lEquations": [
+      "0.0*0.0-20.0*20.0-2.0*(-7.0)*hp=0.0",
+      "hp1-20.0*0.8=0.0",
+      "hpt-hp1-hp=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "20 m/s",
+      "stops"
+     ],
+    "span_ha": [
+       "7 m/s2"
+     ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "0.8 s"
+       
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv*hv-hv*hv-2.0*ha*hp=0.0",
+      "hp-hv*t=0.0",
+      "hp-hp-hp=0.0"
+      
+    ]
+  },
+  {
+    "iIndex": 100,
+    "sQuestion": "If the bullet leaves the muzzle of a rifle at 600 m/s and the barrel is 0.9 m long what was the acceleration of the bullet while in the barrel",
+    "lEquations": [
+      "600.0*600.0-0.0*0.0-2.0*ha*0.9=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "600 m/s"
+
+    ],
+    "span_ha": [
+      "what was the acceleration"
+    ],
+    "span_hp": [
+      "0.9"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 101,
+    "sQuestion": "A bike rider accelerates uniformly at 2 m/s2 for 10 s. If the rider starts from rest calculate the distance traveled in 4 s.",
+    "lEquations": [
+	"hp-0.0*4.0-0.5*2.0*4.0*4.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "starts from rest"
+      
+     ],
+    "span_ha": [
+      "2 m/s2" 
+     ],
+    "span_hp": [
+      "calculate the distance"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "10 s",
+      "4 s" 
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hp-hv*t-0.5*ha*t*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 102,
+    "sQuestion": "A driver of a car going at 25 m/s suddenly sees the lights of a barrier 40 m ahead. It takes the driver 0.75 s before he applies the brakes. Once he begins to brake he decelerates at a rate of 10 m/s2. Does he hit the barrier?",
+    "lEquations": [
+	"0.0*0.0-25.0*25.0-2.0*(-10.0)*hp=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "25 m/s",
+      "applies the brakes"
+      
+     ],
+    "span_ha": [
+      "decelerates at a rate of 10 m/s2" 
+     ],
+    "span_hp": [
+      "40 m",
+      "Does he hit the barrier?"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "0.75 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv*hv-hv*hv-2.0*ha*hp=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 103,
+    "sQuestion": "A car starts from rest and accelerates uniformly to reach a speed of 21 m/s in 7 s. What was the speed of the object after 2 s?",
+    "lEquations": [
+	"hv-0.0-ha*2.0=0.0",
+      "21.0-0.0-ha*7.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      "starts from rest",
+      "21 m/s",
+      "What was the speed"
+      
+     ],
+    "span_ha": [
+      
+     ],
+    "span_hp": [
+     ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "7 s",
+       "2 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0",
+	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+  {
+    "iIndex": 104,
+    "sQuestion": "The Jamaican bobsled team hit the brakes on their sled so that it decelerates at a uniform rate of 0.43 m/s2. How long does it take to stop if it travels 85 m before coming to rest?",
+    "lEquations": [
+	"85.0-hv*t-0.5*(-0.43)*t*t=0.0",
+        "0.0-hv-(-0.43)*t=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+      "stop"
+      
+     ],
+    "span_ha": [
+      "0.43 m/s2"
+     ],
+    "span_hp": [
+	"85 m"
+     ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hp-hv*t-0.5*ha*t*t=0.0",
+	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 105,
+    "sQuestion": "A dog is 60 m away while moving at a constant velocity of 10 m/s towards you. Where is the dog after 4 s?",
+    "lEquations": [
+	"hp-60.0-10.0*4.0-0.5*0.0*4.0*4.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+      "10 m/s"
+      
+     ],
+    "span_ha": [
+      "constant velocity"
+     ],
+    "span_hp": [
+	"60 m",
+	"Where is the dog"
+     ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "4 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hp-hp-hv*t-0.5*ha*t*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 106,
+    "sQuestion": "During a race a dragster is 200 m from the finish line when something goes wrong and it stops accelerating. It travels at a constant speed of 45 m/s for 3 s to try to finish the race. How far from the finish line is the dragster after 3 s?",
+    "lEquations": [
+      "hp-0.0-45.0*3.0-0.5*0.0*3.0*3.0=0.0",
+      "200.0-hp-hp1=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+      "45 m/s"
+      
+     ],
+    "span_ha": [
+      "constant speed"
+     ],
+    "span_hp": [
+	"200 m",
+	"How far"
+     ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "3 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hp-hv*t-0.5*ha*t*t=0.0",
+      "hp-hp-hp=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 107,
+    "sQuestion": "A squirrel is 7 m away from you while moving at a constant velocity of 3 m/s away from you. How far away is the squirrel after 6 s?",
+    "lEquations": [
+	"hp-7.0-3.0*6.0-0.5*0.0*6.0*6.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+      "3 m/s"
+      
+     ],
+    "span_ha": [
+      "constant velocity"
+     ],
+    "span_hp": [
+	"7 m",
+	"How far"
+     ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "6 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hp-hp-hv*t-0.5*ha*t*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 108,
+    "sQuestion": "A bicyclist is travelling at 25 m/s when he begins to decelerate at -4 m/s2. How fast is he travelling after 5 s?",
+    "lEquations": [
+	"hv-25.0-(-4.0)*5.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+      "25 m/s",
+      "How fast" 	
+      
+     ],
+    "span_ha": [
+      "-4 m/s2"
+     ],
+    "span_hp": [
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "5 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+{
+    "iIndex": 109,
+    "sQuestion": "A race car is travelling at 76 m/s when it slows down at -9 m/s2 for 4 s. What is his new velocity?",
+    "lEquations": [
+	"hv-76.0-(-9.0)*4.0=0.0"
+     ],
+    "lSolutions": [
+      
+    ],
+    "span_hv": [
+      
+      "76 m/s",
+      "What is his new velocity?" 	
+      
+     ],
+    "span_ha": [
+      "-9 m/s2"
+     ],
+    "span_hp": [
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+       
+    ],
+    "span_vp": [
+             
+    ],
+    "span_t": [
+      "4 s"
+    ],
+    "span_angle": [
+       	
+    ],
+    "span_velocity": [
+	
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+     	"hv-hv-ha*t=0.0"
+      
+    ]
+  },
+  {
+    "iIndex": 110,
+    "sQuestion": "A cat is moving at 18 m/s when it accelerates at 4 m/s2 for 2 s. What is its new velocity?",
+    "lEquations": [
+      "hv-18.0-4.0*2.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+      "18 m/s",
+      "What is its new velocity?"
+
+    ],
+    "span_ha": [
+      "4 m/s2"
+    ],
+    "span_hp": [
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "2 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 111,
+    "sQuestion": "Georgia is jogging with a velocity of 4 m/s when she accelerates at 2 m/s2 for 3 s. How fast is Georgia running now?",
+    "lEquations": [
+      "hv-4.0-2.0*3.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+      "4 m/s",
+      "How fast"
+
+    ],
+    "span_ha": [
+      "2 m/s2"
+    ],
+    "span_hp": [
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "3 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 112,
+    "sQuestion": "A cannon ball is projected horizontally from the top of a tower 14.9352 m high with a velocity of 60.96 m/s. Find the time of flight.",
+    "lEquations": [
+      "14.9352-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "60.96 m/s"
+
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "14.9352 m"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "Find the time"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 113,
+    "sQuestion": "A runner has a speed of 4 m/s during a race. How far does the runner travel in 1200 s?",
+    "lEquations": [
+      "hp-4.0*1200.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "4 m/s"
+
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "1200 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 114,
+    "sQuestion": "A car starts from the rest and accelerates uniformly for 5 seconds over a distance of 100 m. Find the acceleration of the car.",
+    "lEquations": [
+      "100.0-0.0*5.0-0.5*ha*5.0*5.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "starts from the rest"
+
+
+    ],
+    "span_ha": [
+      "Find the acceleration"
+    ],
+    "span_hp": [
+      "100 m"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "5 seconds"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t-0.5*ha*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 115,
+    "sQuestion": "A car going at 10 m/s undergoes an acceleration of 5 m/s2 for 6 seconds. How far did it go when it was accelerating?",
+    "lEquations": [
+      "hp-10.0*6.0-0.5*5.0*6.0*6.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "10 m/s"
+
+
+    ],
+    "span_ha": [
+      "5 m/s2"
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "6 seconds"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t-0.5*ha*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 116,
+    "sQuestion": "What is the displacement of a car accelerating from 5 m/s to 10 m/s in 2.00 s?",
+    "lEquations": [
+      "10.0-5.0-ha*2.00=0.0",
+      "10.0*10.0-5.0*5.0-2.0*ha*hp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "5 m/s",
+      "10 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "What is the displacement"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "2.00 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0",
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 117,
+    "sQuestion": "A man is driving at the speed 17.8816 m/s when he see an obstacle at distance 91.44 m ahead of his position. The driver applies the brakes and decelerates at 3.048 m/s2. How long does it take him to stop the vehicle?",
+    "lEquations": [
+      "0.0-17.8816-3.048*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "17.8816 m/s",
+      "stop"
+    ],
+    "span_ha": [
+      "3.048 m/s2"
+    ],
+    "span_hp": [
+      "91.44 m"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 118,
+    "sQuestion": "A baseball player hits a homerun, and the ball lands in the left field seats, which is 120 m away from the point at which the ball was hit. The ball lands with a velocity of 20 m/s at an angle of 30 degrees below horizontal. Find the initial velocity with which the ball leaves the bat.",
+    "lEquations": [
+      "v*v-hv*hv-vv*vv=0.0",
+      "hv-20.0*cos(30.0)=0.0",
+      "vv1-20.0*sin(30.0)=0.0",
+      "120.0-hv*t=0.0",
+      "vv1-vv-(-9.8)*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "120 m"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+      "30 degrees"
+    ],
+    "span_velocity": [
+      "20 m/s",
+      "Find the initial velocity"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "v*v-hv*hv-vv*vv=0.0",
+      "hv-v*cos(a)=0.0",
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vv-vv-va*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 119,
+    "sQuestion": "A soccer ball is kicked horizontally off a 22.0 meter high hill and lands a distance of 35.0 meters from the edge of the hill. Determine the initial horizontal velocity of the soccer ball.",
+    "lEquations": [
+      "35.0-hv*t=0.0",
+      "0.0-22.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "Determine the initial horizontal velocity"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "35.0 meters"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "22.0 meter"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "hp-hv*t=0.0",
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 120,
+    "sQuestion": "An object starts from rest and uniformly accelerates at a rate of 2 m/s2 for 5 s. What is the objects displacement during this 5 s time period?",
+    "lEquations": [
+      "hp-0.0*5.0-0.5*2.0*5.0*5.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "starts from rest"
+    ],
+    "span_ha": [
+      "2 m/s2"
+    ],
+    "span_hp": [
+      "What is the objects displacement"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "5 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t-0.5*ha*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 121,
+    "sQuestion": "A train is travelling down a straight track at 20 m/s when the engineer applies the brakes resulting in an acceleration of -1 m/s2. How far does the train move during a 40 s time interval starting at the instant the brakes are applied?",
+    "lEquations": [
+      "hp-20.0*40.0-0.5*(-1.0)*40.0*40.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "20 m/s"
+    ],
+    "span_ha": [
+      "-1 m/s2"
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "40 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t-0.5*ha*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 122,
+    "sQuestion": "A stone is thrown horizontally at a speed of 5 m/s from the top of a cliff 78.4 m high. How far from the base of the cliff does the stone strike the ground?",
+    "lEquations": [
+      "0.0-78.4-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-5.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "5 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "78.4 m",
+      "ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 123,
+    "sQuestion": "A steel ball rolls with constant velocity on a tabletop 0.95 m high. It rolls off and hits the ground 0.352 m from the edge of the table. How fast was the ball rolling?",
+    "lEquations": [
+      "0.0-0.95-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "0.352-hv*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "How fast"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "0.352 m"
+    ],
+    "span_vv": [
+      "rolls with"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "0.95 m",
+      "ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 124,
+    "sQuestion": "A boy is standing in the bleachers 4.9 m above the ground. He throws a ball horizontally onto the fields where it lands 20 m away. What was his pitching speed?",
+    "lEquations": [
+      "0.0-4.9-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "4.9-hv*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "What was his pitching speed?"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "20 m"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "4.9 m",
+      "ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 125,
+    "sQuestion": "A toy rocket is launched with an initial velocity of 12.0 m/s in the horizontal direction from the roof of a 37.0 m tall building. The rocket's engine produces a horizontal acceleration of 2.2 m/s2 time dependent acceleration, in the same direction as the initial velocity, but in the vertical direction the acceleration is 9.8 m/s2 downward. Air resistance can be neglected. How long is the rocket in the air before it hits the ground?",
+    "lEquations": [
+      "0.0-37.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "12.0 m/s"
+    ],
+    "span_ha": [
+      "2.2 m/s2"
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "horizontal"
+    ],
+    "span_va": [
+      "9.8 m/s2"
+    ],
+    "span_vp": [
+      "37.0 m",
+      "ground"
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 126,
+    "sQuestion": "A toy rocket is launched with an initial velocity of 12.0 m/s in the horizontal direction from the roof of a 37.0 m tall building. The rocket's engine produces a horizontal acceleration of 2.2 m/s2 time dependent acceleration, in the same direction as the initial velocity, but in the vertical direction the acceleration is 9.8 m/s2 downward. Air resistance can be neglected. What is its velocity when it hits the ground?",
+    "lEquations": [
+      "0.0-37.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hv-12.0-2.2*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "12.0 m/s",
+      "What is its velocity"
+    ],
+    "span_ha": [
+      "2.2 m/s2"
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "horizontal"
+    ],
+    "span_va": [
+      "9.8 m/s2"
+    ],
+    "span_vp": [
+      "37.0 m",
+      "ground"
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hv-hv-ha*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 127,
+    "sQuestion": "A toy rocket is launched with an initial velocity of 12.0 m/s in the horizontal direction from the roof of a 37.0 m tall building. The rocket's engine produces a horizontal acceleration of 2.2 m/s2 time dependent acceleration, in the same direction as the initial velocity, but in the vertical direction the acceleration is 9.8 m/s2 downward. Air resistance can be neglected. How far from the building does the rocket hit the ground?",
+    "lEquations": [
+      "0.0-37.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-12.0*t-0.5*2.2*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "12.0 m/s"
+    ],
+    "span_ha": [
+      "2.2 m/s2"
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+      "horizontal"
+    ],
+    "span_va": [
+      "9.8 m/s2"
+    ],
+    "span_vp": [
+      "37.0 m",
+      "ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t-0.5*ha*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 128,
+    "sQuestion": "A car initially at rest starts moving with a constant acceleration of 0.50 m/s2 and travels a distance of 25 m. Calculate its final velocity.",
+    "lEquations": [
+      "hv*hv-0.0*0.0-2.0*0.50*25.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "initially at rest",
+      "Calculate its final velocity"
+    ],
+    "span_ha": [
+      "0.50 m/s2"
+    ],
+    "span_hp": [
+      "25 m"
+    ],
+    "span_vv": [
+     
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 129,
+    "sQuestion": "A car initially at rest starts moving with a constant acceleration of 0.50 m/s2 and travels a distance of 25 m. Calculate the time taken to cover 25 m.",
+    "lEquations": [
+      "25.0-0.0*t-0.5*0.50*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "initially at rest"
+
+    ],
+    "span_ha": [
+      "0.50 m/s2"
+    ],
+    "span_hp": [
+      "25 m"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "Calculate the time"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hp-hv*t-0.5*ha*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 130,
+    "sQuestion": "A skier leaves the end of a horizontal ski jump at 22.0 m/s and falls 3.20 m before landing. Neglecting friction how far horizontally does the skier travel in the air before landing?",
+    "lEquations": [
+      "0.0-3.20-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-22.0*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "22.0 m/s"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "how far horizontally"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "3.20 m",
+      "landing"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 131,
+    "sQuestion": "A skier leaves the end of a horizontal ski jump at 22.0 m/s and falls 3.20 m before landing. Neglecting friction when will the skier land?",
+    "lEquations": [
+      "0.0-3.20-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "22.0 m/s"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "3.20 m",
+      "landing"
+    ],
+    "span_t": [
+      "when will"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 132,
+    "sQuestion": "A car was traveling at 12 m/s when the driver stepped on the brakes. If the car comes to a full stop in 5.0 s what was its acceleration?",
+    "lEquations": [
+      "0.0-12.0-ha*5.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "12 m/s",
+      "stop"
+
+    ],
+    "span_ha": [
+      "what was its acceleration?"
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "5.0 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hv-hv-ha*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 133,
+    "sQuestion": "A car was traveling at 12 m/s when the driver stepped on the brakes. If the car comes to a full stop in 5.0 s, what is the distance covered in this time?",
+    "lEquations": [
+      "0.0-12.0-ha*5.0=0.0",
+      "hp-12.0*5.0-0.5*ha*5.0*5.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "12 m/s",
+      "stop"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "what is the distance covered"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "5.0 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+
+      "hv-hv-ha*t=0.0",
+      "hp-hv*t-0.5*ha*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 134,
+    "sQuestion": "A student threw a ball horizontally out of a window 8 m above the ground. It was caught by another student who was 10 m away. What was the initial velocity of the ball?",
+    "lEquations": [
+      "0.0-8.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "10.0-hv*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "What was the initial velocity"
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "10 m"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "8 m",
+      "ground"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 135,
+    "sQuestion": "A student threw a ball horizontally out of a window 8 m above the ground. It was caught by another student who was 10 m away. How long will it take the ball to hit the ground?",
+    "lEquations": [
+      "0.0-8.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "10 m"
+    ],
+    "span_vv": [
+      "horizontally"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "8 m",
+      "ground"
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 136,
+    "sQuestion": "An object with an initial velocity of 4 m/s moves in a straight line under a constant acceleration. 3 s later its velocity is 14 m/s. How far did the object travel during this time?",
+    "lEquations": [
+      "14.0-4.0-ha*3.0=0.0",
+      "hp-4.0*3.0-0.5*ha*3.0*3.0=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "4 m/s",
+      "14 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+    ],
+    "span_t": [
+      "3 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0",
+      "hp-hv*t-0.5*ha*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 137,
+    "sQuestion": "An object with an initial velocity of 4 m/s moves in a straight line under a constant acceleration. 3 s later its velocity is 14 m/s. What is the acceleration during this interval?",
+    "lEquations": [
+      "14.0-4.0-ha*3.0=0.0"
+
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "4 m/s",
+      "14 m/s"
+    ],
+    "span_ha": [
+      "What is the acceleration"
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+    ],
+    "span_t": [
+      "3 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 138,
+    "sQuestion": "The car drives straight off the edge of a cliff that is 57 m high. The investigator at the scene of the accident notes that the point of impact is 130 m from the base of the cliff. How fast was the car travelling when it went over the cliff?",
+    "lEquations": [
+      "0.0-57.0-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "130.0-hv*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "How fast"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "130 m"
+    ],
+    "span_vv": [
+      "straight off"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "57 m",
+      "base"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 139,
+    "sQuestion": "The car drives straight off the edge of a cliff that is 57 m high. The investigator at the scene of the accident notes that the point of impact is 130 m from the base of the cliff. How long does it take the car to hit the base of the cliff?",
+    "lEquations": [
+      "0.0-57.0-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "130 m"
+    ],
+    "span_vv": [
+      "straight off"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "57 m",
+      "base"
+    ],
+    "span_t": [
+      "How long"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 140,
+    "sQuestion": "The car drives straight off the edge of a cliff. The investigator at the scene of the accident notes that the point of impact is 130 m from the base of the cliff. If it takes 3.37639 s for the car to hit the base of the cliff, what is the height from which the car fell?",
+    "lEquations": [
+      "0.0-vp-0.0*3.37639-0.5*(-9.8)*3.37639*3.37639=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "130 m"
+    ],
+    "span_vv": [
+      "straight off"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "what is the height",
+      "base"
+    ],
+    "span_t": [
+      "3.37639 s"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 141,
+    "sQuestion": "Ima Hurryin is approaching a stoplight moving with a velocity of 30.0 m/s. The light turns yellow and Ima applies the brakes and skids to a stop. If Ima's acceleration is -8.00 m/s2, then determine the displacement of the car during the skidding process.",
+    "lEquations": [
+      "0.0*0.0-30.0*30.0-2.0*(-8.00)*hp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "30.0 m/s",
+      "stop"
+    ],
+    "span_ha": [
+      "-8.00 m/s2"
+    ],
+    "span_hp": [
+      "determine the displacement"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv*hv-hv*hv-2.0*ha*hp=0.0"
+    ]
+  },
+  {
+    "iIndex": 142,
+    "sQuestion": "Ima Hurryin is approaching a stoplight moving with a velocity of 30.0 m/s. The light turns yellow and Ima applies the brakes and skids to a stop. If Ima's acceleration is -8.00 m/s2, then determine the time taken by her to stop the car.",
+    "lEquations": [
+      "0.0-30.0-(-8.00)*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "30.0 m/s",
+      "stop"
+    ],
+    "span_ha": [
+      "-8.00 m/s2"
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "determine the time"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hv-hv-ha*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 143,
+    "sQuestion": "Luke Autbeloe drops a pile of roof shingles from the top of a roof located 8.52 meters above the ground. Determine the time required for the shingles to reach the ground.",
+    "lEquations": [
+      "0.0-8.52-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "drops a pile"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "8.52 meters",
+      "ground"
+    ],
+    "span_t": [
+      "Determine the time"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "2"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 144,
+    "sQuestion": "Rex Things throws his mother's crystal vase vertically upwards with an initial velocity of 26.2 m/s. Determine the height to which the vase will rise above its initial height.",
+    "lEquations": [
+      "0.0*0.0-26.2*26.2-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "vertically upwards"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "26.2 m/s",
+      "height to which the vase will rise"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "Determine the height"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "1"
+    ],
+    "template": [
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 145,
+    "sQuestion": "A long jumper leaves the ground with an initial velocity of 12 m/s at an angle of 28 degrees above the horizontal. Determine the peak height of the long jumper.",
+    "lEquations": [
+      "vv-12.0*sin(28.0)=0.0",
+      "0.0*0.0-vv*vv-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+      "peak height"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "Determine the peak height"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+      "28 degrees"
+    ],
+    "span_velocity": [
+      "12 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "vv-v*sin(a)=0.0",
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+    ]
+  },
+  {
+    "iIndex": 146,
+    "sQuestion": "A pool ball leaves a 0.60 meter high table with an initial horizontal velocity of 2.4 m/s. Predict the time required for the pool ball to fall to the ground.",
+    "lEquations": [
+
+      "0.0-0.60-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "2.4 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+      "horizontal velocity"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "0.60 meter",
+      "ground"
+    ],
+    "span_t": [
+      "Predict the time"
+    ],
+    "span_angle": [
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 147,
+    "sQuestion": "A missile is launched from a cliff that is 45 m high with a velocity of 56.56 m/s at an angle of 45 degrees. Calculate the range of the projectile.",
+    "lEquations": [
+
+      "hv-56.56*cos(45.0)=0.0",
+      "hp-hv*t=0.0",
+      "vv-56.56*sin(45.0)=0.0",
+      "0.0-45.0-vv*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "Calculate the range"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "45 m"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+      "45 degrees"
+    ],
+    "span_velocity": [
+      "56.56 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0",
+      "hp-hv*t=0.0",
+      "vv-v*sin(a)=0.0",
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 148,
+    "sQuestion": "A missile is launched from a cliff that is 45 m high with a velocity of 56.56 m/s at an angle of 45 degrees. Calculate the total time of its flight.",
+    "lEquations": [
+
+
+      "vv-56.56*sin(45.0)=0.0",
+      "0.0-45.0-vv*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "45 m"
+    ],
+    "span_t": [
+      "Calculate the total time"
+    ],
+    "span_angle": [
+      "45 degrees"
+    ],
+    "span_velocity": [
+      "56.56 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+
+      "vv-v*sin(a)=0.0",
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 149,
+    "sQuestion": "An object starts from rest and uniformly accelerates at a rate of 2 m/s2 for 5 s. How many seconds does it take the object to have a displacement of 15 m?",
+    "lEquations": [
+      "15.0-0.0*t-0.5*2.0*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "starts from rest"
+    ],
+    "span_ha": [
+      "2 m/s2"
+    ],
+    "span_hp": [
+      "15 m"
+    ],
+    "span_vv": [
+
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+
+    ],
+    "span_t": [
+      "5 s",
+      "How many seconds"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "0"
+    ],
+    "template": [
+      "hp-hv*t-0.5*ha*t*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 150,
+    "sQuestion": "A ball rolls off of a table with a speed of 3.2 m/s. The table is 1.5 m high. How far away from the base of the table does the ball travel?",
+    "lEquations": [
+      "0.0-1.5-0.0*t-0.5*(-9.8)*t*t=0.0",
+      "hp-3.2*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "3.2 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "How far"
+    ],
+    "span_vv": [
+      "rolls off"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "1.5 m",
+      "base"
+    ],
+    "span_t": [
+
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+    ]
+  },
+  {
+    "iIndex": 151,
+    "sQuestion": "A ball rolls off of a table with a speed of 3.2 m/s. The table is 1.5 m high. When will the ball strike the base of the table?",
+    "lEquations": [
+      "0.0-1.5-0.0*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      "3.2 m/s"
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "rolls off"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "1.5 m",
+      "base"
+    ],
+    "span_t": [
+      "When will"
+    ],
+    "span_angle": [
+
+    ],
+    "span_velocity": [
+
+    ],
+    "type": [
+      "3"
+    ],
+    "template": [
+      "vp-vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 152,
+    "sQuestion": "An object is launched at a velocity of 20 m/s in a direction making an angle of 25 degrees upward with the horizontal. What is the maximum height reached by the object?",
+    "lEquations": [
+      "vv-20.0*sin(25.0)=0.0",
+      "0.0*0.0-vv*vv-2.0*(-9.8)*vp=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      "maximum height"
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "What is the maximum height"
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+      "25 degrees"
+    ],
+    "span_velocity": [
+       "20 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "vv-v*sin(a)=0.0",
+      "vv*vv-vv*vv-2.0*va*vp=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 153,
+    "sQuestion": "An object is launched at a velocity of 20 m/s in a direction making an angle of 25 degrees upward with the horizontal. What is the total flight time of the object?",
+    "lEquations": [
+      "vv-20.0*sin(25.0)=0.0",
+      "0.0-vv*t-0.5*(-9.8)*t*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      
+      
+    ],
+    "span_t": [
+      "What is the total flight time"
+    ],
+    "span_angle": [
+      "25 degrees"
+    ],
+    "span_velocity": [
+       "20 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "vv-v*sin(a)=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 154,
+    "sQuestion": "An object is launched at a velocity of 20 m/s in a direction making an angle of 25 degrees upward with the horizontal. What is the horizontal range of the object?",
+    "lEquations": [
+      "hv-20.0*cos(25.0)=0.0",
+      "vv-20.0*sin(25.0)=0.0",
+      "0.0-vv*t-0.5*(-9.8)*t*t=0.0",
+      "hp-hv*t=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "What is the horizontal range"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+      "25 degrees"
+    ],
+    "span_velocity": [
+       "20 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0",
+      "hp-hv*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 155,
+    "sQuestion": "An object is launched at a velocity of 20 m/s in a direction making an angle of 25 degrees upward with the horizontal. What is the magnitude of velocity just before it hits ground?",
+    "lEquations": [
+      "hv-20.0*cos(25.0)=0.0",
+      "vv-20.0*sin(25.0)=0.0",
+      "0.0-vv*t-0.5*(-9.8)*t*t=0.0",
+      "vv1-vv-(-9.8)*t=0.0",
+      "v*v-hv*hv-vv1*vv1=0.0"
+    ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground"
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+      "25 degrees"
+    ],
+    "span_velocity": [
+       "20 m/s",
+       "What is the magnitude of velocity"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0",
+      "vv-vv-va*t=0.0",
+      "v*v-hv*hv-vv*vv=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 156,
+    "sQuestion": "A ball is kicked at an angle of 35 degrees with the ground. What should be the initial velocity of the ball so that it hits a target that is 30 meters away at a height of 1.8 meters?",
+    "lEquations": [
+      "hv-v*cos(35.0)=0.0",
+      "vv-v*sin(35.0)=0.0",
+      "30.0-hv*t=0.0",
+      "1.8-vv*t-0.5*(-9.8)*t*t=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "30 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "1.8 meters"
+      
+    ],
+    "span_t": [
+      
+    ],
+    "span_angle": [
+      "35 degrees"
+    ],
+    "span_velocity": [
+       "What should be the initial velocity"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 157,
+    "sQuestion": "A ball is kicked at an angle of 35 degrees with the ground. What is the time for the ball to hit a target that is 30 meters away at a height of 1.8 meters?",
+    "lEquations": [
+      "hv-v*cos(35.0)=0.0",
+      "vv-v*sin(35.0)=0.0",
+      "30.0-hv*t=0.0",
+      "1.8-vv*t-0.5*(-9.8)*t*t=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "30 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "1.8 meters"
+      
+    ],
+    "span_t": [
+      "What is the time"
+    ],
+    "span_angle": [
+      "35 degrees"
+    ],
+    "span_velocity": [
+       
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 158,
+    "sQuestion": "A ball kicked from ground level at an initial velocity of 60 m/s and a angle with ground reaches a horizontal distance of 200 meters. What is the angle at which it was thrown?",
+    "lEquations": [
+      "hv-60.0*cos(a)=0.0",
+      "vv-60.0*sin(a)=0.0",
+      "200.0-hv*t=0.0",
+      "0.0-vv*t-0.5*(-9.8)*t*t=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "200 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground"
+      
+    ],
+    "span_t": [
+     
+    ],
+    "span_angle": [
+      "What is the angle"
+    ],
+    "span_velocity": [
+       "60 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 159,
+    "sQuestion": "A ball kicked from ground level at an initial velocity of 60 m/s and a angle with ground reaches a horizontal distance of 200 meters. What is the time of flight of the ball?",
+    "lEquations": [
+      "hv-60.0*cos(a)=0.0",
+      "vv-60.0*sin(a)=0.0",
+      "200.0-hv*t=0.0",
+      "0.0-vv*t-0.5*(-9.8)*t*t=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "200 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground"
+      
+    ],
+    "span_t": [
+     "What is the time of flight"
+    ],
+    "span_angle": [
+      
+    ],
+    "span_velocity": [
+       "60 m/s"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 160,
+    "sQuestion": "A projectile starting from ground hits a target on the ground located at a distance of 1000 meters after 40 seconds. What is the angle at which it was projected?",
+    "lEquations": [
+      "hv-v*cos(a)=0.0",
+      "vv-v*sin(a)=0.0",
+      "1000.0-hv*40.0=0.0",
+      "0.0-vv*40.0-0.5*(-9.8)*40.0*40.0=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "1000 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground"
+      
+    ],
+    "span_t": [
+     "40 seconds"
+    ],
+    "span_angle": [
+      "What is the angle"
+    ],
+    "span_velocity": [
+       
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 161,
+    "sQuestion": "A projectile starting from ground hits a target on the ground located at a distance of 1000 meters after 40 seconds. What is the initial velocity at which it was projected?",
+    "lEquations": [
+      "hv-v*cos(a)=0.0",
+      "vv-v*sin(a)=0.0",
+      "1000.0-hv*40.0=0.0",
+      "0.0-vv*40.0-0.5*(-9.8)*40.0*40.0=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "1000 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground"
+      
+    ],
+    "span_t": [
+     "40 seconds"
+    ],
+    "span_angle": [
+      
+    ],
+    "span_velocity": [
+       "What is the initial velocity"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 162,
+    "sQuestion": "A projectile starting from ground hits a target on the ground located at a distance of 1000 meters after 40 seconds. What is the initial velocity at which it was projected?",
+    "lEquations": [
+      "hv-v*cos(a)=0.0",
+      "vv-v*sin(a)=0.0",
+      "1000.0-hv*40.0=0.0",
+      "0.0-vv*40.0-0.5*(-9.8)*40.0*40.0=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "1000 meters"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "ground"
+      
+    ],
+    "span_t": [
+     "40 seconds"
+    ],
+    "span_angle": [
+      
+    ],
+    "span_velocity": [
+       "What is the initial velocity"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  },
+  {
+    "iIndex": 163,
+    "sQuestion": "A ball is kicked at an angle of 45 degrees. It is intended that the ball lands in the back of a moving truck. If the initial horozontal distance from the back of the truck to the ball is 5 m, what is the initial velocity required so that the ball lands in the truck. Assume the initial height of the ball is equal to the height of the ball at the instant it begins to enter the truck.",
+    "lEquations": [
+      "hv-v*cos(45.0)=0.0",
+      "vv-v*sin(45.0)=0.0",
+      "5.0-hv*t=0.0",
+      "0.0-vv*t-0.5*(-9.8)*t*t=0.0"
+     ],
+    "lSolutions": [
+
+    ],
+    "span_hv": [
+      
+    ],
+    "span_ha": [
+
+    ],
+    "span_hp": [
+      "5 m"
+    ],
+    "span_vv": [
+      
+    ],
+    "span_va": [
+
+    ],
+    "span_vp": [
+      "initial height of the ball is equal to the height of the ball"
+      
+    ],
+    "span_t": [
+     
+    ],
+    "span_angle": [
+      "45 degrees"
+    ],
+    "span_velocity": [
+       "what is the initial velocity"
+    ],
+    "type": [
+      "4"
+    ],
+    "template": [
+      "hv-v*cos(a)=0.0", 
+      "vv-v*sin(a)=0.0",
+      "hp-hv*t=0.0",
+      "vp-vv*t-0.5*va*t*t=0.0"
+
+    ]
+  }
+]
