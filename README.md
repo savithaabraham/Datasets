@@ -3,7 +3,6 @@ Dataset of 161 word problems from kinematics domain.
 Each word problem annotated with equations required to solve it (lEquations), spans from word problem that has information about value of kinematics parameter (for eg. span_hv has spans associated with parameter horizontal velocity), and type of problem (5 types - 0 to 4).
 Each instance has the followings slots:
 lEquations - equations used to solve the problem
-
 lSolutions - the solution, that is value of the queried parameter (annotated only for a few problems),
 span_hv - has all the spans from word problem that gives information about the parameter horizontal velocity,
 span_ha - has all the spans from word problem that gives information about the parameter horizontal acceleration,
